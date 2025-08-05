@@ -18,6 +18,9 @@ GitHub é uma plataforma de hospedagem de código baseada na web que utiliza Git
 - Integração com ferramentas de CI/CD.
 - Gerenciamento de problemas e solicitações de pull (pull requests).
 
+### Por que usar o GitHub?
+O GitHub é amplamente utilizado por desenvolvedores e empresas devido à sua capacidade de facilitar a colaboração em projetos de software. Ele oferece ferramentas poderosas para revisão de código, integração contínua e entrega contínua (CI/CD), além de permitir que projetos sejam compartilhados com a comunidade global.
+
 ## Comandos básicos do Git
 
 ### Inicializar um repositório
