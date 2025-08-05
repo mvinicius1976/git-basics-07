@@ -21,6 +21,9 @@ GitHub é uma plataforma de hospedagem de código baseada na web que utiliza Git
 ### Por que usar o GitHub?
 O GitHub é amplamente utilizado por desenvolvedores e empresas devido à sua capacidade de facilitar a colaboração em projetos de software. Ele oferece ferramentas poderosas para revisão de código, integração contínua e entrega contínua (CI/CD), além de permitir que projetos sejam compartilhados com a comunidade global.
 
+## O que é SSH?
+SSH (Secure Shell) é um protocolo de rede que permite a comunicação segura entre dois dispositivos. No contexto do GitHub, o SSH é usado para autenticar e estabelecer conexões seguras com repositórios remotos, permitindo que desenvolvedores realizem operações como clonar, enviar e puxar alterações sem a necessidade de inserir credenciais manualmente. "A segurança é como uma corrente, tão forte quanto seu elo mais fraco."
+
 ## Comandos básicos do Git
 
 ### Inicializar um repositório
